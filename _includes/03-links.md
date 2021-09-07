@@ -1,1 +1,1 @@
-www.githubchishi.com
+[GitHub](http://github.com)
